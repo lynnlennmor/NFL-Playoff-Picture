@@ -39,7 +39,7 @@ Q3: What is each QB's passing yard performance? Purpose: Assess quarterback impa
 
 Q4: What is each QB's completion percentage? Purpose: Evaluate passing efficiency and consistency
 
-[Link to all queries](https://github.com/lynnlennmor/NFL-Playoff-Picture/blob/main/NFL%20Playoffs%20Analysis.ipynb)
+[Link to all queries](https://github.com/lynnlennmor/NFL-Playoff-Picture/blob/main/NFL%20Playoffs%20Analysis_Queries.ipynb)
 
 ## 3. Dashboard Design
 I structured the dashboard as an analytical funnel:
